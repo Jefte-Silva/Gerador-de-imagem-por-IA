@@ -2,6 +2,7 @@
 
 Aplicação Java com Spring Boot que simula a geração de imagens a partir de prompts de texto. 
 Ideal para estudo de arquitetura MVC, integração com serviços, e design de páginas dinâmicas usando Thymeleaf.
+Este projeto **não está integrado com a OpenAI** (ainda). Ele simula o comportamento de uma IA usando o serviço, via.placeholder.com.
 
 ---
 
